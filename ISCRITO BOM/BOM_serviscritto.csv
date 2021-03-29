@@ -1,7 +1,7 @@
 ﻿name@version *,license *,copyrights *,end-of-support,dependencies,language,repository,email,URL
 activation-1.0.2.jar,CDDL-1.0,-,-,-,Java,-,-,-
 aopalliance-1.0.jar,Public Domain,-,-,-,Java,-,-,-
-axis-1.4.csi-1.0.0.jar,Libreria personalizzata CSI basata su Apache-2.0,-,-,-,Java,-,-,-
+axis-1.4.csi-1.0.0.jar,"Apache-2.0, MIT (Rilasciata da CSI Piemonte su richiesta)",-,-,-,Java,-,-,-
 axis-ant-1.4.jar,Apache-2.0,-,-,-,Java,-,-,-
 axis-jaxrpc-1.4.jar,Apache-2.0,-,-,-,Java,-,-,-
 bsh-1.2b7.jar,LGPL-2.1,-,-,-,Java,-,-,-
