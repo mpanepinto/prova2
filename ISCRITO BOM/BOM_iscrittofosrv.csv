@@ -16,7 +16,7 @@ csi-stadapter-1.4.5.jar,"Apache-2.0, MIT (Rilasciata da CSI Piemonte su richiest
 csi-tools-1.4.5.jar,"Apache-2.0, MIT (Rilasciata da CSI Piemonte su richiesta)",CSI Piemonte,-,-,Java,-,-,-
 ejb-2.1.jar,Libreria Java di Base,-,-,-,Java,-,-,-
 httpclient-4.5.2.jar,Apache-2.0,-,-,-,Java,-,-,-
-httpcore-4.4.4.jar,Apache-2.1,-,-,-,Java,-,-,-
+httpcore-4.4.4.jar,Apache-2.0,-,-,-,Java,-,-,-
 iridev2-pep-intf-2.0.0.jar,"Apache-2.0, MIT (Rilasciata da CSI Piemonte su richiesta)",CSI Piemonte,-,-,Java,-,-,-
 itext-4.2.0.jar,"LGPL-3.0, MPL-2.0",-,-,-,Java,-,-,-
 jaas-1.0.jar,Libreria Java di Base,-,-,-,Java,-,-,-
